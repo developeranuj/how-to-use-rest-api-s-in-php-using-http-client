@@ -1,0 +1,227 @@
+[
+  {
+    "_id": "5a65b66182506e96e1d02fcd",
+    "index": 0,
+    "guid": "9e1a6770-079b-4585-a1f0-7a9b275f75b5",
+    "isActive": true,
+    "balance": "$1,651.18",
+    "picture": "http://placehold.it/32x32",
+    "age": 37,
+    "eyeColor": "brown",
+    "name": "Latonya Cohen",
+    "gender": "female",
+    "company": "ETERNIS",
+    "email": "latonyacohen@eternis.com",
+    "phone": "+1 (909) 412-2486",
+    "address": "318 Prospect Avenue, Wright, District Of Columbia, 3140",
+    "about": "Deserunt eiusmod commodo ipsum tempor. Anim cupidatat qui ea reprehenderit minim incididunt dolore laborum laborum aute consequat. Mollit enim id officia sit incididunt anim minim est deserunt nisi commodo cupidatat aliqua mollit.\r\n",
+    "registered": "2017-08-29T04:20:04 -06:-30",
+    "latitude": -44.15062,
+    "longitude": 150.987228,
+    "tags": [
+      "nisi",
+      "fugiat",
+      "exercitation",
+      "enim",
+      "dolore",
+      "laboris",
+      "cillum"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Michelle Crane"
+      },
+      {
+        "id": 1,
+        "name": "Cabrera Perkins"
+      },
+      {
+        "id": 2,
+        "name": "Barton Potts"
+      }
+    ],
+    "greeting": "Hello, Latonya Cohen! You have 4 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "5a65b6611ae03798f9f62ba3",
+    "index": 1,
+    "guid": "485cb67d-3f5a-4b03-a2e0-64e44a0c8959",
+    "isActive": false,
+    "balance": "$2,692.99",
+    "picture": "http://placehold.it/32x32",
+    "age": 23,
+    "eyeColor": "green",
+    "name": "Shanna Baird",
+    "gender": "female",
+    "company": "XYMONK",
+    "email": "shannabaird@xymonk.com",
+    "phone": "+1 (874) 485-3440",
+    "address": "693 Columbia Street, Alfarata, Iowa, 7939",
+    "about": "Id duis fugiat ipsum nostrud laboris voluptate labore quis voluptate. Velit id et officia consequat cillum ad ipsum sunt qui. Lorem non et anim mollit dolore elit. Deserunt officia incididunt mollit consequat ea.\r\n",
+    "registered": "2016-10-01T05:40:37 -06:-30",
+    "latitude": -25.477124,
+    "longitude": -35.764113,
+    "tags": [
+      "nisi",
+      "adipisicing",
+      "consequat",
+      "aute",
+      "mollit",
+      "amet",
+      "duis"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Bonnie Mccullough"
+      },
+      {
+        "id": 1,
+        "name": "Donaldson Hester"
+      },
+      {
+        "id": 2,
+        "name": "Thelma Farmer"
+      }
+    ],
+    "greeting": "Hello, Shanna Baird! You have 1 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "5a65b661c7808383034ccdd9",
+    "index": 2,
+    "guid": "e2818469-c598-4d08-a085-bcf3037d648e",
+    "isActive": true,
+    "balance": "$3,385.27",
+    "picture": "http://placehold.it/32x32",
+    "age": 40,
+    "eyeColor": "blue",
+    "name": "Dale Gordon",
+    "gender": "female",
+    "company": "NIKUDA",
+    "email": "dalegordon@nikuda.com",
+    "phone": "+1 (808) 592-2913",
+    "address": "340 Kingston Avenue, Caroline, Marshall Islands, 8971",
+    "about": "Velit occaecat Lorem proident reprehenderit consectetur irure culpa quis mollit. Reprehenderit laborum anim irure proident cillum duis eiusmod dolor ea consequat duis. Quis magna mollit elit labore dolor minim excepteur Lorem minim dolore cillum culpa. Eu amet mollit aliquip reprehenderit duis culpa quis aliqua occaecat sunt officia. Officia anim anim consequat minim labore non in.\r\n",
+    "registered": "2014-10-09T09:17:03 -06:-30",
+    "latitude": -79.037462,
+    "longitude": 132.695618,
+    "tags": [
+      "nulla",
+      "ullamco",
+      "aute",
+      "cillum",
+      "ea",
+      "qui",
+      "aliqua"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Sallie Grimes"
+      },
+      {
+        "id": 1,
+        "name": "Cathleen Snyder"
+      },
+      {
+        "id": 2,
+        "name": "Leona Rodriguez"
+      }
+    ],
+    "greeting": "Hello, Dale Gordon! You have 1 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "_id": "5a65b661f88d1d6cfd748f27",
+    "index": 3,
+    "guid": "6eec0e01-7aa9-4439-bc25-1df841634fac",
+    "isActive": false,
+    "balance": "$2,948.64",
+    "picture": "http://placehold.it/32x32",
+    "age": 35,
+    "eyeColor": "brown",
+    "name": "Joyner Newton",
+    "gender": "male",
+    "company": "FREAKIN",
+    "email": "joynernewton@freakin.com",
+    "phone": "+1 (844) 456-3903",
+    "address": "120 Guider Avenue, Snyderville, Hawaii, 7602",
+    "about": "Do laboris anim deserunt commodo deserunt nostrud nostrud quis cillum dolore. Anim adipisicing eu culpa magna id laboris tempor ullamco. Laborum aliqua nisi ea ea ea nostrud ullamco mollit nostrud minim. Ad amet cillum in dolor cillum. Mollit culpa laborum elit anim ullamco adipisicing aliquip ut anim dolor ex. Pariatur aute deserunt minim aliqua Lorem non ea adipisicing.\r\n",
+    "registered": "2015-11-22T04:11:03 -06:-30",
+    "latitude": 18.928369,
+    "longitude": -164.964531,
+    "tags": [
+      "magna",
+      "cillum",
+      "voluptate",
+      "ad",
+      "irure",
+      "culpa",
+      "proident"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Cunningham Browning"
+      },
+      {
+        "id": 1,
+        "name": "Madelyn Murray"
+      },
+      {
+        "id": 2,
+        "name": "Fuentes Lloyd"
+      }
+    ],
+    "greeting": "Hello, Joyner Newton! You have 3 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "5a65b66119c9e0ae66460a1d",
+    "index": 4,
+    "guid": "0cde532f-78fe-4b89-805b-e2e233103305",
+    "isActive": true,
+    "balance": "$3,773.65",
+    "picture": "http://placehold.it/32x32",
+    "age": 32,
+    "eyeColor": "blue",
+    "name": "Myrtle Powell",
+    "gender": "female",
+    "company": "LUXURIA",
+    "email": "myrtlepowell@luxuria.com",
+    "phone": "+1 (970) 561-3865",
+    "address": "258 Dodworth Street, Idamay, Federated States Of Micronesia, 9094",
+    "about": "Officia esse exercitation amet veniam esse ullamco velit mollit non et esse. Fugiat et et nulla ipsum et mollit elit sit in dolor voluptate occaecat. Anim sunt aliqua laboris cillum. Irure ullamco elit exercitation qui in nisi eu pariatur amet. Sunt elit voluptate cupidatat incididunt qui aute ut nulla magna enim. Magna ut pariatur quis aute. Adipisicing amet sint ex id nisi eiusmod ipsum aute eu elit duis et ad eiusmod.\r\n",
+    "registered": "2015-09-10T01:33:36 -06:-30",
+    "latitude": 5.017156,
+    "longitude": -42.327156,
+    "tags": [
+      "irure",
+      "nulla",
+      "tempor",
+      "eu",
+      "commodo",
+      "id",
+      "eiusmod"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Selena Ortiz"
+      },
+      {
+        "id": 1,
+        "name": "Sheena Hill"
+      },
+      {
+        "id": 2,
+        "name": "Dianna Mcleod"
+      }
+    ],
+    "greeting": "Hello, Myrtle Powell! You have 8 unread messages.",
+    "favoriteFruit": "strawberry"
+  }
+]

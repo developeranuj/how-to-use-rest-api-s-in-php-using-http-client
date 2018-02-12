@@ -1,0 +1,15 @@
+.button-main{
+	text-align: center;
+	margin-bottom: 30px;
+}
+.btn.btn-primary {
+    width: 90px;
+    margin: 0px auto;
+    margin-top: 0px;
+}
+form div {
+    margin-top: 20px;
+}
+input{
+	height: 31px;
+}
